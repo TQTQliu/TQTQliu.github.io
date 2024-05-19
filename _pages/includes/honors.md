@@ -1,5 +1,4 @@
 # 🎖 Honors and Awards
-Below, I exhasutively list some of my Honors and Awards that inspire me a lot.
 
 - *2023* &nbsp;&nbsp; Honours Degrees (Top 3%)
 - *2022* &nbsp;&nbsp; National Scholarship (Top 2%)
