@@ -4,7 +4,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/MVSGaussian.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**arXiv 2024**] [Fast Generalizable Gaussian Splatting Reconstruction from Multi-View Stereo](https://mvsgaussian.github.io/) \\
+[**ECCV 2024**] [Fast Generalizable Gaussian Splatting Reconstruction from Multi-View Stereo](https://mvsgaussian.github.io/) \\
 **Tianqi Liu**, Guangcong Wang, Shoukang Hu, Liao Shen, Xinyi Ye, Yuhang Zang, Zhiguo Cao, Wei Li, Ziwei Liu.  \\
 [[Project page]](https://mvsgaussian.github.io/)
 [[Paper]](https://arxiv.org/abs/2405.12218)
