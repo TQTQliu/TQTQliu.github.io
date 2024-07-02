@@ -10,6 +10,7 @@
 [[Paper]](https://arxiv.org/abs/2405.12218)
 [[Code]](https://github.com/TQTQliu/MVSGaussian)
 [[Video]](https://youtu.be/4TxMQ9RnHMA)
+[[机器之心]](https://mp.weixin.qq.com/s/Y9uXxNMgliV9p-ne_bGpEw)
 
 MVSGaussian is a Gaussian-based method designed for efficient reconstruction of unseen scenes from sparse views in a single forward pass. It offers high-quality initialization for fast training and real-time rendering.
 
@@ -26,7 +27,7 @@ MVSGaussian is a Gaussian-based method designed for efficient reconstruction of 
 [[Paper]](https://arxiv.org/abs/2404.17528)
 [[Code]](https://github.com/TQTQliu/GeFu)
 [[Video]](https://youtu.be/Z4RgnsKF3Gs)
-[[机器之心]](https://mp.weixin.qq.com/s/Y9uXxNMgliV9p-ne_bGpEw)
+
 
 We present GeFu, a generalizable NeRF method that synthesizes novel views from multi-view images in a single forward pass.
 
