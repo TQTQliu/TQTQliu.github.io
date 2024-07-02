@@ -26,6 +26,7 @@ MVSGaussian is a Gaussian-based method designed for efficient reconstruction of 
 [[Paper]](https://arxiv.org/abs/2404.17528)
 [[Code]](https://github.com/TQTQliu/GeFu)
 [[Video]](https://youtu.be/Z4RgnsKF3Gs)
+[[机器之心]](https://mp.weixin.qq.com/s/Y9uXxNMgliV9p-ne_bGpEw)
 
 We present GeFu, a generalizable NeRF method that synthesizes novel views from multi-view images in a single forward pass.
 
