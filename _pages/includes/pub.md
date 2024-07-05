@@ -18,7 +18,7 @@ MVSGaussian is a Gaussian-based method designed for efficient reconstruction of 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/wildavatar.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**arXiv 2024**] [WildAvatar: Web-scale In-the-wild Video Dataset for 3D Avatar Creation](https://wildavatar.github.io/) \\
