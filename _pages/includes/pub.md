@@ -1,7 +1,7 @@
 # 📝 Publications 
 <!-- 加点表情包,直接复制图片即可  https://github.com/guodongxiaren/README/blob/master/emoji.md?tdsourcetag=s_pcqq_aiomsg -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/MVSGaussian.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/MVSGaussian.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**ECCV 2024**] [Fast Generalizable Gaussian Splatting Reconstruction from Multi-View Stereo](https://mvsgaussian.github.io/) \\
@@ -18,7 +18,7 @@ MVSGaussian is a Gaussian-based method designed for efficient reconstruction of 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/MVSGaussian.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**arXiv 2024**] [WildAvatar: Web-scale In-the-wild Video Dataset for 3D Avatar Creation](https://wildavatar.github.io/) \\
