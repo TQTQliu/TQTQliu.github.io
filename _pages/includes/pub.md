@@ -10,9 +10,25 @@
 [[Paper]](https://arxiv.org/abs/2405.12218)
 [[Code]](https://github.com/TQTQliu/MVSGaussian)
 [[Video]](https://youtu.be/4TxMQ9RnHMA)
-[[机器之心]](https://mp.weixin.qq.com/s/Y9uXxNMgliV9p-ne_bGpEw)
+[[中文解读]](https://mp.weixin.qq.com/s/Y9uXxNMgliV9p-ne_bGpEw)
 
 MVSGaussian is a Gaussian-based method designed for efficient reconstruction of unseen scenes from sparse views in a single forward pass. It offers high-quality initialization for fast training and real-time rendering.
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/MVSGaussian.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**arXiv 2024**] [WildAvatar: Web-scale In-the-wild Video Dataset for 3D Avatar Creation](https://wildavatar.github.io/) \\
+Zihao Huang, Shoukang Hu, Guangcong Wang, **Tianqi Liu**, Yuhang Zang, Zhiguo Cao, Wei Li, Ziwei Liu. \\
+[[Project page]](https://wildavatar.github.io/)
+[[Paper]](https://arxiv.org/pdf/2407.02165)
+[[Code]](https://github.com/wildavatar/WildAvatar_Toolbox)
+[[Video]](https://youtu.be/nbK2n2rFJ0E)
+
+We present WildAvatar, a web-scale in-the-wild video dataset for 3D avatar creation.
 
 </div>
 </div>
