@@ -17,6 +17,18 @@ MVSGaussian is a Gaussian-based method designed for efficient reconstruction of 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/dreammover.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[**ECCV 2024**] [DreamMover: Leveraging the Prior of Diffusion Models for Image Interpolation with Large Motion](https://dreamm0ver.github.io/) \\
+Liao Shen, **Tianqi Liu**, Huiqiang Sun, Xinyi Ye, Baopu Li, Jianming Zhang, Zhiguo Cao. \\
+[[Project page]](https://dreamm0ver.github.io/)
+
+By leveraging the prior of diffusion models, DreamMover can generate intermediate images from image pairs with large motion while maintaining semantic consistency
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/wildavatar.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
