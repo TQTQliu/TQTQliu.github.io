@@ -24,7 +24,7 @@ MVSGaussian is a Gaussian-based method designed for efficient reconstruction of 
 Liao Shen, **Tianqi Liu**, Huiqiang Sun, Xinyi Ye, Baopu Li, Jianming Zhang, Zhiguo Cao. \\
 [[Project page]](https://dreamm0ver.github.io/)
 
-By leveraging the prior of diffusion models, DreamMover can generate intermediate images from image pairs with large motion while maintaining semantic consistency
+By leveraging the prior of diffusion models, DreamMover can generate intermediate images from image pairs with large motion while maintaining semantic consistency.
 
 </div>
 </div>
