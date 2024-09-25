@@ -2,4 +2,4 @@
 - Personal Pages: https://tqtqliu.github.io (updated recently🔥)
 - Google Scholar: https://scholar.google.com/citations?user=mY2Qc7YAAAAJ
 - DBLP: https://dblp.org/pid/134/5653-3.html
-- CV: assets\pdf\tianqiliu_cv.pdf
+- CV: https://tqtqliu.github.io/assets/pdf/tianqiliu_cv.pdf
