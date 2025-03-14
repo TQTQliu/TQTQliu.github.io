@@ -1,5 +1,33 @@
 # 📝 Publications 
 <!-- 加点表情包,直接复制图片即可  https://github.com/guodongxiaren/README/blob/master/emoji.md?tdsourcetag=s_pcqq_aiomsg -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/dofgaussian.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**CVPR 2025**] [DoF-Gaussian: Controllable Depth-of-Field for 3D Gaussian Splatting](https://dof-gaussian.github.io/) \\
+Liao Shen, **Tianqi Liu**, Huiqiang Sun, Jiaqi Li, Zhiguo Cao, Wei Li, Chen Change Loy. \\
+[[Project page]](https://dof-gaussian.github.io/)
+[[Paper]](https://arxiv.org/pdf/2503.00746)
+[[Code]](https://github.com/leoShen917/DoF-Gaussian)
+
+We introduce DoF-Gaussian, a controllable depth-of-field method for 3D-GS. We develop a lens-based imaging model based on geometric optics principles to control DoF effects. Our framework is customizable and supports various interactive applications.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/wildavatar.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**CVPR 2025**] [WildAvatar: Learning In-the-wild 3D Avatars from the Web](https://wildavatar.github.io/) \\
+Zihao Huang, Shoukang Hu, Guangcong Wang, **Tianqi Liu**, Yuhang Zang, Zhiguo Cao, Wei Li, Ziwei Liu. \\
+[[Project page]](https://wildavatar.github.io/)
+[[Paper]](https://arxiv.org/pdf/2407.02165)
+[[Code]](https://github.com/wildavatar/WildAvatar_Toolbox)
+[[Video]](https://youtu.be/nbK2n2rFJ0E)
+
+We present WildAvatar, a web-scale in-the-wild video dataset for 3D avatar creation.
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/MVSGaussian.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -27,22 +55,6 @@ Liao Shen, **Tianqi Liu**, Huiqiang Sun, Xinyi Ye, Baopu Li, Jianming Zhang, Zhi
 [[Code]](https://github.com/leoShen917/DreamMover)
 
 By leveraging the prior of diffusion models, DreamMover can generate intermediate images from image pairs with large motion while maintaining semantic consistency.
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/wildavatar.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[**arXiv 2024**] [WildAvatar: Web-scale In-the-wild Video Dataset for 3D Avatar Creation](https://wildavatar.github.io/) \\
-Zihao Huang, Shoukang Hu, Guangcong Wang, **Tianqi Liu**, Yuhang Zang, Zhiguo Cao, Wei Li, Ziwei Liu. \\
-[[Project page]](https://wildavatar.github.io/)
-[[Paper]](https://arxiv.org/pdf/2407.02165)
-[[Code]](https://github.com/wildavatar/WildAvatar_Toolbox)
-[[Video]](https://youtu.be/nbK2n2rFJ0E)
-
-We present WildAvatar, a web-scale in-the-wild video dataset for 3D avatar creation.
 
 </div>
 </div>
