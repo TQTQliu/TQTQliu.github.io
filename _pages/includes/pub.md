@@ -1,5 +1,20 @@
 # 📝 Publications 
-<!-- 加点表情包,直接复制图片即可  https://github.com/guodongxiaren/README/blob/master/emoji.md?tdsourcetag=s_pcqq_aiomsg -->
+(\* denotes equal contribution.)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/free4d' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**arXiv 2025**] [Free4D: Tuning-free 4D Scene Generation with Spatial-Temporal Consistency](https://free4d.github.io/) \\
+**Tianqi Liu\***, Zihao Huang\*, Zhaoxi Chen, Guangcong Wang, Shoukang Hu, Liao Shen, Huiqiang Sun, Zhiguo Cao, Wei Li, Ziwei Liu. \\
+[[Project page]](https://free4d.github.io/)
+[[Paper]](https://arxiv.org/pdf/2503.20785)
+[[Code]](https://github.com/TQTQliu/Free4D)
+
+Free4D is a tuning-free framework for 4D scene generation from a single image or text.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/dofgaussian.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
