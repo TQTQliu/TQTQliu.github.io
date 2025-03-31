@@ -9,6 +9,7 @@
 [[Project page]](https://free4d.github.io/)
 [[Paper]](https://arxiv.org/pdf/2503.20785)
 [[Code]](https://github.com/TQTQliu/Free4D)
+[[Video]](https://youtu.be/GpHnoSczlhA)
 
 Free4D is a tuning-free framework for 4D scene generation from a single image or text.
 
