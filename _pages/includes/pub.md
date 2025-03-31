@@ -1,7 +1,7 @@
 # 📝 Publications 
 (\* denotes equal contribution.)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/free4d' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/free4d.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**arXiv 2025**] [Free4D: Tuning-free 4D Scene Generation with Spatial-Temporal Consistency](https://free4d.github.io/) \\

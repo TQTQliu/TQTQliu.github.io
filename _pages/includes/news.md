@@ -1,6 +1,6 @@
 # 🔥 News
 <!-- 加点表情包,直接复制图片即可  https://github.com/guodongxiaren/README/blob/master/emoji.md?tdsourcetag=s_pcqq_aiomsg -->
-
+- *2025-03* : 🎉🎉 [Free4D](https://free4d.github.io/) (arXiv'25) (proj page, code, and demo) is released
 - *2025-02* : 🎉🎉 [DoF-Gaussian](https://dof-gaussian.github.io/), [WildAvatar](https://wildavatar.github.io/), and [CH<sub>3</sub>Depth]() are accepted to **CVPR 2025**.
 - *2024-07* : 🎉🎉 [MVSGaussian](https://mvsgaussian.github.io/) and [DreamMover](https://dreamm0ver.github.io/) are accepted to **ECCV 2024**.
 - *2024-02* : 🎉🎉 [GeFu](https://gefucvpr24.github.io/) and [RStab](https://arxiv.org/pdf/2404.12887) are accepted to **CVPR 2024**.
