@@ -1,10 +1,10 @@
 # 📝 Publications 
 (\* denotes equal contribution.)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/free4d.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/free4d.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**arXiv 2025**] [Free4D: Tuning-free 4D Scene Generation with Spatial-Temporal Consistency](https://free4d.github.io/) \\
+[**ICCV 2025**] [Free4D: Tuning-free 4D Scene Generation with Spatial-Temporal Consistency](https://free4d.github.io/) \\
 **Tianqi Liu\***, Zihao Huang\*, Zhaoxi Chen, Guangcong Wang, Shoukang Hu, Liao Shen, Huiqiang Sun, Zhiguo Cao, Wei Li, Ziwei Liu. \\
 [[Project page]](https://free4d.github.io/)
 [[Paper]](https://arxiv.org/pdf/2503.20785)
@@ -41,6 +41,19 @@ Zihao Huang, Shoukang Hu, Guangcong Wang, **Tianqi Liu**, Yuhang Zang, Zhiguo Ca
 [[Video]](https://youtu.be/nbK2n2rFJ0E)
 
 We present WildAvatar, a web-scale in-the-wild video dataset for 3D avatar creation.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 Highlight</div><img src='images/ch3depth.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**CVPR 2025 Highlight**] [CH<sub>3</sub>Depth: Efficient and Flexible Depth Foundation Model with Flow Matching](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_CH3Depth_Efficient_and_Flexible_Depth_Foundation_Model_with_Flow_Matching_CVPR_2025_paper.pdf) \\
+Jiaqi Li, Yiran Wang, Jinghong Zheng, Junrui Zhang, Liao Shen, **Tianqi Liu**, Zhiguo Cao. \\
+[[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_CH3Depth_Efficient_and_Flexible_Depth_Foundation_Model_with_Flow_Matching_CVPR_2025_paper.pdf)
+[[Code]](https://github.com/lijia7/CH3Depth)
+
+CH₃Depth is an efficient and flexible flow-matching-based depth estimation framework that achieves state-of-the-art zero-shot performance in accuracy, efficiency, and temporal consistency.
 
 </div>
 </div>
