@@ -16,6 +16,19 @@ Free4D is a tuning-free framework for 4D scene generation from a single image or
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/mugs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**ICCV 2025**] [MuGS: Multi-Baseline Generalizable Gaussian Splatting Reconstruction](https://arxiv.org/abs/2508.04297) \\
+Yaopeng Lou, Liao Shen, **Tianqi Liu**, Jiaqi Li, Zihao Huang, Huiqiang Sun, Zhiguo Cao. \\
+[[Paper]](https://arxiv.org/abs/2508.04297)
+
+MuGS is the first multi-baseline generalizable gaussian splatting method.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/dofgaussian.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
