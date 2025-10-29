@@ -1,6 +1,23 @@
 # 📝 Publications 
 (\* denotes equal contribution.)
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/4dnex.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**arXiv 2025**] [4DNeX: Feed-Forward 4D Generative Modeling Made Easy](https://4dnex.github.io/) \\
+Zhaoxi Chen\*, **Tianqi Liu\***, Long Zhuo\*, Jiawei Ren, Zeng Tao, He Zhu, Fangzhou Hong, Liang Pan, Ziwei Liu. \\
+[[Project page]](https://4dnex.github.io/)
+[[Paper]](https://arxiv.org/abs/2508.13154)
+[[Code]](https://github.com/3DTopia/4DNeX)
+[[Dataset]](https://huggingface.co/datasets/3DTopia/4DNeX-10M)
+[[Video]](https://www.youtube.com/watch?v=jaXNU1-0zgk)
+
+4DNeX is a feed-forward framework that generates 4D (dynamic 3D) scene representations from a single image by adapting a video diffusion model. It produces high-quality dynamic point clouds and enables novel-view video synthesis.
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/free4d.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -23,6 +40,7 @@ Free4D is a tuning-free framework for 4D scene generation from a single image or
 [**ICCV 2025**] [MuGS: Multi-Baseline Generalizable Gaussian Splatting Reconstruction](https://arxiv.org/abs/2508.04297) \\
 Yaopeng Lou, Liao Shen, **Tianqi Liu**, Jiaqi Li, Zihao Huang, Huiqiang Sun, Zhiguo Cao. \\
 [[Paper]](https://arxiv.org/abs/2508.04297)
+[[Code]](https://github.com/EuclidLou/MuGS)
 
 MuGS is the first multi-baseline generalizable gaussian splatting method.
 
