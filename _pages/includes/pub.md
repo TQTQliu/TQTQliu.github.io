@@ -1,6 +1,36 @@
 # 📝 Publications 
 (\* denotes equal contribution.)
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/lightx.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**arXiv 2025**] [Light-X: Generative 4D Video Rendering with Camera and Illumination Control](https://lightx-ai.github.io/) \\
+**Tianqi Liu**, Zhaoxi Chen, Zihao Huang, Shaocong Xu, Saining Zhang, Chongjie Ye, Bohan Li, Zhiguo Cao, Wei Li, Hao Zhao, Ziwei Liu. \\
+[[Project page]](https://lightx-ai.github.io/)
+[[Paper]](https://arxiv.org/abs/2512.05115)
+[[Code]](https://github.com/TQTQliu/Light-X)
+[[Video]](https://youtu.be/ui9Lg2H--0c)
+[[中文解读]](https://mp.weixin.qq.com/s/YIMpcZd7OKW7cobQQ6UkFw)
+
+Light-X is a video generation framework that jointly controls camera trajectory and illumination from monocular videos.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/cinectrl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**arXiv 2025**] [Generative Photographic Control for Scene-Consistent Video Cinematic Editing](https://huiqiang-sun.github.io/cinectrl) \\
+Huiqiang Sun, Liao Shen, Zhan Peng, Kun Wang, Size Wu, Yuhang Zang, **Tianqi Liu**, Zihao Huang, Xingyu Zeng, Zhiguo Cao, Wei Li, Chen Change Loy. \\
+[[Project page]](https://huiqiang-sun.github.io/cinectrl)
+[[Paper]](https://arxiv.org/abs/2511.12921)
+[[Code]](https://github.com/huiqiang-sun/CineCtrl)
+
+Cinectrl is the first video cinematic editing framework that provides fine control over professional camera parameters (e.g., bokeh, shutter speed).
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/4dnex.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
