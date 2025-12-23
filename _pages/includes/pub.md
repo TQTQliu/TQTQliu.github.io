@@ -1,4 +1,4 @@
-# 📝 Publications 
+# 📝 [Publications](https://scholar.google.com/citations?user=mY2Qc7YAAAAJ)
 (\* denotes equal contribution.)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/lightx.gif' alt="sym" width="100%"></div></div>
