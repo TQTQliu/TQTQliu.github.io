@@ -25,6 +25,7 @@ Huiqiang Sun, Liao Shen, Zhan Peng, Kun Wang, Size Wu, Yuhang Zang, **Tianqi Liu
 [[Project page]](https://huiqiang-sun.github.io/cinectrl)
 [[Paper]](https://arxiv.org/abs/2511.12921)
 [[Code]](https://github.com/huiqiang-sun/CineCtrl)
+[[中文解读]](https://mp.weixin.qq.com/s/0NsUoPD51o2KX6tWd3YY7Q)
 
 Cinectrl is the first video cinematic editing framework that provides fine control over professional camera parameters (e.g., bokeh, shutter speed).
 
@@ -41,6 +42,7 @@ Zhaoxi Chen\*, **Tianqi Liu\***, Long Zhuo\*, Jiawei Ren, Zeng Tao, He Zhu, Fang
 [[Code]](https://github.com/3DTopia/4DNeX)
 [[Dataset]](https://huggingface.co/datasets/3DTopia/4DNeX-10M)
 [[Video]](https://www.youtube.com/watch?v=jaXNU1-0zgk)
+[[中文解读]](https://mp.weixin.qq.com/s/_e4C5H6JzqlA1SHKip4USg)
 
 4DNeX is a feed-forward framework that generates 4D (dynamic 3D) scene representations from a single image by adapting a video diffusion model. It produces high-quality dynamic point clouds and enables novel-view video synthesis.
 
@@ -57,6 +59,7 @@ Zhaoxi Chen\*, **Tianqi Liu\***, Long Zhuo\*, Jiawei Ren, Zeng Tao, He Zhu, Fang
 [[Paper]](https://arxiv.org/pdf/2503.20785)
 [[Code]](https://github.com/TQTQliu/Free4D)
 [[Video]](https://youtu.be/GpHnoSczlhA)
+[[中文解读]](https://mp.weixin.qq.com/s/aT4TJdB_8WxsEUfIw-d0Jw)
 
 Free4D is a tuning-free framework for 4D scene generation from a single image or text.
 
@@ -100,6 +103,7 @@ Zihao Huang, Shoukang Hu, Guangcong Wang, **Tianqi Liu**, Yuhang Zang, Zhiguo Ca
 [[Paper]](https://arxiv.org/pdf/2407.02165)
 [[Code]](https://github.com/wildavatar/WildAvatar_Toolbox)
 [[Video]](https://youtu.be/nbK2n2rFJ0E)
+[[中文解读]](https://mp.weixin.qq.com/s/x7S8sgk0S4X9snuY2HRUog)
 
 We present WildAvatar, a web-scale in-the-wild video dataset for 3D avatar creation.
 
