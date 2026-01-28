@@ -1,10 +1,10 @@
 # 📝 [Publications](https://scholar.google.com/citations?user=mY2Qc7YAAAAJ)
 (\* denotes equal contribution.)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/lightx.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/lightx.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**arXiv 2025**] [Light-X: Generative 4D Video Rendering with Camera and Illumination Control](https://lightx-ai.github.io/) \\
+[**ICLR 2026**] [Light-X: Generative 4D Video Rendering with Camera and Illumination Control](https://lightx-ai.github.io/) \\
 **Tianqi Liu**, Zhaoxi Chen, Zihao Huang, Shaocong Xu, Saining Zhang, Chongjie Ye, Bohan Li, Zhiguo Cao, Wei Li, Hao Zhao, Ziwei Liu. \\
 [[Project page]](https://lightx-ai.github.io/)
 [[Paper]](https://arxiv.org/abs/2512.05115)

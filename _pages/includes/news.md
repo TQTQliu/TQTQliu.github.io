@@ -1,6 +1,6 @@
 # 🔥 News
 <!-- 加点表情包,直接复制图片即可  https://github.com/guodongxiaren/README/blob/master/emoji.md?tdsourcetag=s_pcqq_aiomsg -->
-- *2025-12* : 🎉🎉 [Light-X](https://lightx-ai.github.io/) is released.
+- *2026-01* : 🎉🎉 [Light-X](https://lightx-ai.github.io/) is accepted to **ICLR 2026**.
 - *2025-11* : 🎉🎉 [CineCtrl](https://huiqiang-sun.github.io/cinectrl) is released.
 - *2025-08* : 🎉🎉 [4DNeX](https://4dnex.github.io/) is released.
 - *2025-06* : 🎉🎉 [Free4D](https://free4d.github.io/) and [MuGS](https://arxiv.org/abs/2508.04297) are accepted to **ICCV 2025**.
