@@ -1,6 +1,21 @@
 # 📝 [Publications](https://scholar.google.com/citations?user=mY2Qc7YAAAAJ)
 (\* denotes equal contribution.)
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/arthoi.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**arXiv 2026**] [ArtHOI: Articulated Human-Object Interaction Synthesis by 4D Reconstruction from Video Priors](https://arthoi.github.io/) \\
+Zihao Huang, **Tianqi Liu**, Zhaoxi Chen, Shaocong Xu, Saining Zhang, Lixing Xiao, Zhiguo Cao, Wei Li, Hao Zhao, Ziwei Liu. \\
+[[Project page]](https://arthoi.github.io/)
+[[Paper]](https://arxiv.org/abs/2603.04338)
+[[Code]](https://github.com/Inso-13/ArtHOI)
+[[Video]](https://youtu.be/0gzpn4AKJBM)
+
+ArtHOI is the first zero-shot framework for articulated human-object interaction synthesis via 4D reconstruction from monocular video priors. 
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/lightx.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
