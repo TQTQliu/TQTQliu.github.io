@@ -1,6 +1,21 @@
 # 📝 [Publications](https://scholar.google.com/citations?user=mY2Qc7YAAAAJ)
 (\* denotes equal contribution.)
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/Kinema4D.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**arXiv 2026**] [Kinema4D: Kinematic 4D World Modeling for Spatiotemporal Embodied Simulation](https://mutianxu.github.io/Kinema4D-project-page/) \\
+Mutian Xu, Tianbao Zhang, **Tianqi Liu**, Zhaoxi Chen, Xiaoguang Han, Ziwei Liu. \\
+[[Project page]](https://mutianxu.github.io/Kinema4D-project-page/)
+[[Paper]](https://arxiv.org/abs/2603.16669)
+[[Code]](https://github.com/mutianxu/Kinema4D)
+[[Video]](https://www.youtube.com/watch?v=9Z1fLIwuZdM)
+
+We propose Kinema4D, a new action-conditioned 4D generative robotic simulator. Given an initial world image with a robot at a canonical setup space, and an action sequence, our method generates future robot-world interactions in 4D space.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/arthoi.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
