@@ -47,6 +47,20 @@ Light-X is a video generation framework that jointly controls camera trajectory 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH 2026</div><img src='images/relitlive.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**SIGGRAPH 2026**] [Relit-LiVE: Relight Video by Jointly Learning Environment Video](https://zhuxing0.github.io/projects/Relit-LiVE/) \\
+Weiqing Xiao\*, Hong Li\*, Xiuyu Yang\*, Houyuan Chen, Wenyi Li, **Tianqi Liu**, Shaocong Xu, Chongjie Ye, Hao Zhao, Beibei Wang. \\
+[[Project page]](https://zhuxing0.github.io/projects/Relit-LiVE/)
+[[Paper]](https://zhuxing0.github.io/papers/Relit-LiVE.pdf)
+[[Code]](https://github.com/zhuxing0/Relit-LiVE)
+
+A video relighting framework that jointly predicts relit videos and viewpoint-aligned environment videos, producing physically consistent and temporally stable relighting without requiring prior camera poses.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/cinectrl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
