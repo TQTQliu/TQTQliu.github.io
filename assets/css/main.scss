@@ -40,6 +40,71 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+.news-scroll {
+    max-height: 14rem;
+    overflow-y: auto;
+    padding-right: 0.75rem;
+    scrollbar-width: thin;
+    scrollbar-color: #c3c8cd #f5f6f7;
+
+    > ul {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+
+    &:focus-visible {
+        outline: 2px solid #00369f;
+        outline-offset: 4px;
+    }
+
+    &::-webkit-scrollbar {
+        width: 5px;
+    }
+
+    &::-webkit-scrollbar-track {
+        background: #f5f6f7;
+    }
+
+    &::-webkit-scrollbar-thumb {
+        background: #c3c8cd;
+        border-radius: 3px;
+    }
+}
+
+@media print {
+    .news-scroll {
+        max-height: none;
+        overflow: visible;
+    }
+}
+
+.publication-filter {
+    margin: 1rem 0;
+
+    select {
+        width: auto;
+        max-width: 100%;
+        min-height: 40px;
+        margin: 0;
+        padding: 0.4rem 0.65rem;
+        border: 1px solid #b8c3ce;
+        border-radius: 4px;
+        background: white;
+        color: #34465a;
+        font: inherit;
+        cursor: pointer;
+
+        &:focus-visible {
+            outline: 2px solid #00369f;
+            outline-offset: 3px;
+        }
+    }
+}
+
+.publication-filter[hidden], .paper-box[hidden] {
+    display: none;
+}
+
 .paper-box {
     display: flex;
     justify-content: left;
@@ -55,7 +120,13 @@
         display: flex;
         width: 100%;
         order: 2;
+        > div {
+            width: 100%;
+            max-width: 400px;
+        }
         img {
+            width: 100%;
+            height: auto;
             max-width: 400px;
             box-shadow: 3px 3px 6px #888;
             object-fit: cover;
@@ -85,6 +156,25 @@
     }
 
 
+}
+
+.paper-box--animated {
+    .paper-box-image {
+        justify-content: center;
+
+        > div {
+            max-width: 100%;
+        }
+
+        img {
+            display: block;
+            width: auto;
+            height: auto;
+            max-width: 100%;
+            max-height: var(--preview-height, 14rem);
+            object-fit: contain;
+        }
+    }
 }
 
 $scroll_offset : 2em;

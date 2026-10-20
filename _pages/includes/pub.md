@@ -1,7 +1,46 @@
 # 📝 [Publications](https://scholar.google.com/citations?user=mY2Qc7YAAAAJ)
+{: id="-publications"}
+
+<div class="publication-filter" hidden>
+  <select aria-label="Publication display">
+    <option value="selected">Selected Publications</option>
+    <option value="all">All Publications</option>
+  </select>
+</div>
+
 (\* denotes equal contribution.)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/Kinema4D.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box paper-box--animated' style='--preview-height: 17rem' data-selected><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/ropedia-w0-predictions.webp' alt="Ropedia W0 world-model predictions across robot arms and dexterous humanoids" width="960" height="588" loading="lazy" decoding="async"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**arXiv 2026**] [Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience](https://ropedia.github.io/ropedia-w0/) \\
+**Tianqi Liu\***, Hanfei Zhao\*, Qifeng Liang\*, Hui En Pang, Jiarui Xu, Sayang Mu, Penghao Qiu, YingSheng Zhang, Jun Wang, Ziang Cao, Mingze Sun, Yukang Cao, Fangzhou Hong, Zhaoxi Chen, Ziwei Liu. \\
+[[Project page]](https://ropedia.github.io/ropedia-w0/)
+[[Paper]](https://arxiv.org/abs/2610.26855)
+[[Code]](https://github.com/Ropedia/ropedia-w0)
+[[Model]](https://huggingface.co/ropedia-ai/Ropedia-W0)
+[[Video]](https://youtu.be/5I3a1G-mDko)
+
+Ropedia W0 is an egocentric world foundation model that learns loco-manipulation from 10k hours of human experience and generalizes across robot embodiments through a shared kinematic interface based on camera poses and projected skeletons.
+
+</div>
+</div>
+
+<div class='paper-box paper-box--animated' style='--preview-height: 12rem'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/gpt-6-astra-evaluation.webp' alt="GPT-6-Astra evaluation across eight real-world robot platforms and five embodiment classes" width="960" height="420" loading="lazy" decoding="async"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**arXiv 2026**] [Has GPT-6-Astra Achieved Embodied Intelligence?](https://sensenova.ai/has-gpt-6-astra-achieved-embodied-intelligence) \\
+SenseNova Joint Research Team · **Tianqi Liu** (core contributor). \\
+[[Project page]](https://sensenova.ai/has-gpt-6-astra-achieved-embodied-intelligence)
+[[Paper]](https://arxiv.org/abs/2610.22471)
+[[Code]](https://github.com/OpenSenseNova/SenseNova-RoboRSI)
+
+We evaluate GPT-6-Astra across 12 embodied benchmarks and 8 real-world robot configurations, examining its capabilities and limitations in robotic manipulation and navigation.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/Kinema4D.webp' alt="Kinema4D research overview" width="960" height="490" loading="lazy" decoding="async"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**arXiv 2026**] [Kinema4D: Kinematic 4D World Modeling for Spatiotemporal Embodied Simulation](https://mutianxu.github.io/Kinema4D-project-page/) \\
@@ -16,7 +55,7 @@ We propose Kinema4D, a new action-conditioned 4D generative robotic simulator. G
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/arthoi.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/arthoi.webp' alt="ArtHOI research overview" width="960" height="405" loading="lazy" decoding="async"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**arXiv 2026**] [ArtHOI: Articulated Human-Object Interaction Synthesis by 4D Reconstruction from Video Priors](https://arthoi.github.io/) \\
@@ -31,7 +70,7 @@ ArtHOI is the first zero-shot framework for articulated human-object interaction
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/lightx.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box' data-selected><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/lightx.webp' alt="Light-X research overview" width="400" height="169" loading="lazy" decoding="async"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**ICLR 2026**] [Light-X: Generative 4D Video Rendering with Camera and Illumination Control](https://lightx-ai.github.io/) \\
@@ -47,7 +86,7 @@ Light-X is a video generation framework that jointly controls camera trajectory 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH 2026</div><img src='images/relitlive.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH 2026</div><img src='images/relitlive.webp' alt="Relit-LiVE research overview" width="960" height="438" loading="lazy" decoding="async"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**SIGGRAPH 2026**] [Relit-LiVE: Relight Video by Jointly Learning Environment Video](https://zhuxing0.github.io/projects/Relit-LiVE/) \\
@@ -61,7 +100,7 @@ A video relighting framework that jointly predicts relit videos and viewpoint-al
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/cinectrl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/cinectrl.webp' alt="CineCtrl research overview" width="960" height="463" loading="lazy" decoding="async"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**arXiv 2025**] [Generative Photographic Control for Scene-Consistent Video Cinematic Editing](https://huiqiang-sun.github.io/cinectrl) \\
@@ -76,7 +115,7 @@ Cinectrl is the first video cinematic editing framework that provides fine contr
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/4dnex.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box' data-selected><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/4dnex.webp' alt="4DNeX research overview" width="600" height="245" loading="lazy" decoding="async"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**arXiv 2025**] [4DNeX: Feed-Forward 4D Generative Modeling Made Easy](https://4dnex.github.io/) \\
@@ -94,7 +133,7 @@ Zhaoxi Chen\*, **Tianqi Liu\***, Long Zhuo\*, Jiawei Ren, Zeng Tao, He Zhu, Fang
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/free4d.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box' data-selected><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/free4d.webp' alt="Free4D research overview" width="400" height="181" loading="lazy" decoding="async"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**ICCV 2025**] [Free4D: Tuning-free 4D Scene Generation with Spatial-Temporal Consistency](https://free4d.github.io/) \\
@@ -111,7 +150,7 @@ Free4D is a tuning-free framework for 4D scene generation from a single image or
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/mugs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/mugs.webp' alt="MuGS research overview" width="960" height="298" loading="lazy" decoding="async"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**ICCV 2025**] [MuGS: Multi-Baseline Generalizable Gaussian Splatting Reconstruction](https://arxiv.org/abs/2508.04297) \\
@@ -124,7 +163,7 @@ MuGS is the first multi-baseline generalizable gaussian splatting method.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/dofgaussian.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/dofgaussian.webp' alt="DoF-Gaussian research overview" width="960" height="384" loading="lazy" decoding="async"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**CVPR 2025**] [DoF-Gaussian: Controllable Depth-of-Field for 3D Gaussian Splatting](https://dof-gaussian.github.io/) \\
@@ -138,7 +177,7 @@ We introduce DoF-Gaussian, a controllable depth-of-field method for 3D-GS. We de
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/wildavatar.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/wildavatar.webp' alt="WildAvatar research overview" width="960" height="302" loading="lazy" decoding="async"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**CVPR 2025**] [WildAvatar: Learning In-the-wild 3D Avatars from the Web](https://wildavatar.github.io/) \\
@@ -154,7 +193,7 @@ We present WildAvatar, a web-scale in-the-wild video dataset for 3D avatar creat
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 Highlight</div><img src='images/ch3depth.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 Highlight</div><img src='images/ch3depth.webp' alt="CH3Depth research overview" width="960" height="430" loading="lazy" decoding="async"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**CVPR 2025 Highlight**] [CH<sub>3</sub>Depth: Efficient and Flexible Depth Foundation Model with Flow Matching](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_CH3Depth_Efficient_and_Flexible_Depth_Foundation_Model_with_Flow_Matching_CVPR_2025_paper.pdf) \\
@@ -167,7 +206,7 @@ CH₃Depth is an efficient and flexible flow-matching-based depth estimation fra
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/MVSGaussian.png' alt="sym" width="100%"></div></div>
+<div class='paper-box' data-selected><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/MVSGaussian.webp' alt="MVSGaussian research overview" width="960" height="380" loading="lazy" decoding="async"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**ECCV 2024**] [MVSGaussian: Fast Generalizable Gaussian Splatting Reconstruction from Multi-View Stereo](https://mvsgaussian.github.io/) \\
@@ -183,7 +222,7 @@ MVSGaussian is a Gaussian-based method designed for efficient reconstruction of 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/dreammover.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/dreammover.webp' alt="DreamMover research overview" width="960" height="414" loading="lazy" decoding="async"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [**ECCV 2024**] [DreamMover: Leveraging the Prior of Diffusion Models for Image Interpolation with Large Motion](https://dreamm0ver.github.io/) \\
@@ -198,7 +237,7 @@ By leveraging the prior of diffusion models, DreamMover can generate intermediat
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/gefu.png' alt="sym" width="100%"></div></div>
+<div class='paper-box' data-selected><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/gefu.webp' alt="GeFu research overview" width="960" height="340" loading="lazy" decoding="async"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**CVPR 2024**] [Geometry-aware Reconstruction and Fusion-refined Rendering for Generalizable Neural Radiance Fields](https://gefucvpr24.github.io/) \\
@@ -215,7 +254,7 @@ We present GeFu, a generalizable NeRF method that synthesizes novel views from m
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/RStab.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/RStab.webp' alt="RStab research overview" width="960" height="325" loading="lazy" decoding="async"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**CVPR 2024**] [3D Multi-frame Fusion for Video Stabilization](https://arxiv.org/pdf/2404.12887) \\
@@ -229,7 +268,7 @@ RStab is a novel framework for video stabilization that integrates 3D multi-fram
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/ETMVSNet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box' data-selected><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/ETMVSNet.webp' alt="ET-MVSNet research overview" width="960" height="402" loading="lazy" decoding="async"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**ICCV 2023**] [When Epipolar Constraint Meets Non-local Operators in Multi-View Stereo](https://arxiv.org/abs/2309.17218) \\
@@ -244,7 +283,7 @@ ETMVSNet uses epipolar geometric priors to constrain feature aggregation fileds,
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/dmvsnet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/dmvsnet.webp' alt="DMVSNet research overview" width="960" height="350" loading="lazy" decoding="async"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**ICCV 2023**] [Constraining Depth Map Geometry for Multi-View Stereo: A Dual-Depth Approach with Saddle-shaped Depth Cells](https://arxiv.org/abs/2307.09160) \\
