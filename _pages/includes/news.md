@@ -3,6 +3,7 @@
 <div class="news-scroll" role="region" aria-label="News updates" tabindex="0" markdown="1">
 
 - *2026-10* : 🎉🎉 [Ropedia W0](https://ropedia.github.io/ropedia-w0/) is released.
+- *2026-10* : 🎉🎉 [DONIC](https://ropedia.github.io/DONIC/) is released.
 - *2026-10* : 🎉🎉 [Has GPT-6-Astra Achieved Embodied Intelligence?](https://sensenova.ai/has-gpt-6-astra-achieved-embodied-intelligence) is released.
 - *2026-03* : 🎉🎉 [Kinema4D](https://mutianxu.github.io/Kinema4D-project-page/) and [ArtHOI](https://arthoi.github.io/) are released.
 - *2026-03* : 🎉🎉 [Relit-LiVE](https://zhuxing0.github.io/projects/Relit-LiVE/) is accepted to **SIGGRAPH 2026**.

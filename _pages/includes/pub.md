@@ -26,6 +26,20 @@ Ropedia W0 is an egocentric world foundation model that learns loco-manipulation
 </div>
 </div>
 
+<div class='paper-box paper-box--animated' style='--preview-height: 17rem'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/donic.webp' alt="DONIC dexterous bimanual tracking across diverse objects and human demonstrations" width="960" height="540" loading="lazy" decoding="async"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**arXiv 2026**] [DONIC: Generalist Dexterous Bimanual Tracking Control from Human Demonstrations](https://ropedia.github.io/DONIC/) \\
+Mingze Sun, Ziang Cao, Yuan Fei, Qiankuan Tao, Zihan Wang, **Tianqi Liu**, Junhao Chen, Haiwen Diao, Fangzhou Hong, Zhaoxi Chen, Ziwei Liu. \\
+[[Project page]](https://ropedia.github.io/DONIC/)
+[[Paper]](https://arxiv.org/abs/2610.29997)
+[[Code]](https://github.com/Ropedia/DONIC)
+
+DONIC learns a single dexterous bimanual tracking policy from human demonstrations, generalizing to unseen trajectories and objects without fine-tuning. We also introduce BiHOI, a multi-view dataset of contact-rich two-hand interactions.
+
+</div>
+</div>
+
 <div class='paper-box paper-box--animated' style='--preview-height: 12rem'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/gpt-6-astra-evaluation.webp' alt="GPT-6-Astra evaluation across eight real-world robot platforms and five embodiment classes" width="960" height="420" loading="lazy" decoding="async"></div></div>
 <div class='paper-box-text' markdown="1">
 
