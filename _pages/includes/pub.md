@@ -69,10 +69,10 @@ We propose Kinema4D, a new action-conditioned 4D generative robotic simulator. G
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/arthoi.webp' alt="ArtHOI research overview" width="960" height="405" loading="lazy" decoding="async"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2026</div><img src='images/arthoi.webp' alt="ArtHOI research overview" width="960" height="405" loading="lazy" decoding="async"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**arXiv 2026**] [ArtHOI: Articulated Human-Object Interaction Synthesis by 4D Reconstruction from Video Priors](https://arthoi.github.io/) \\
+[**TPAMI 2026**] [ArtHOI: Articulated Human-Object Interaction Synthesis by 4D Reconstruction from Video Priors](https://arthoi.github.io/) \\
 Zihao Huang, **Tianqi Liu**, Zhaoxi Chen, Shaocong Xu, Saining Zhang, Lixing Xiao, Zhiguo Cao, Wei Li, Hao Zhao, Ziwei Liu. \\
 [[Project page]](https://arthoi.github.io/)
 [[Paper]](https://arxiv.org/abs/2603.04338)
