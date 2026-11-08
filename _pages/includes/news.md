@@ -2,6 +2,7 @@
 {: id="-news"}
 <div class="news-scroll" role="region" aria-label="News updates" tabindex="0" markdown="1">
 
+- *2026-11* : 🎉🎉 [NEO-VLA](https://weichenfan.github.io/NEO-VLA-Page/) is released.
 - *2026-10* : 🎉🎉 [ArtHOI](https://arthoi.github.io/) is accepted by **IEEE TPAMI**.
 - *2026-10* : 🎉🎉 [Ropedia W0](https://ropedia.github.io/ropedia-w0/) is released.
 - *2026-10* : 🎉🎉 [DONIC](https://ropedia.github.io/DONIC/) is released.

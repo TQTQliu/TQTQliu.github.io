@@ -40,6 +40,22 @@ DONIC learns a single dexterous bimanual tracking policy from human demonstratio
 </div>
 </div>
 
+<div class='paper-box paper-box--animated' style='--preview-height: 17rem'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/neo-vla.webp' alt="NEO-VLA controlling a real robot to place a tennis ball on a can, shown at 4x speed" width="960" height="540" loading="lazy" decoding="async"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**arXiv 2026**] [From Pixels to Actions – Towards Native Vision-Language-Action Policies](https://weichenfan.github.io/NEO-VLA-Page/) \\
+Weichen Fan\*, Haiwen Diao\*, Penghao Wu, Siyuan Hu, Ziqi Huang, **Tianqi Liu**, Mingze Sun, Ziyi Wang, Zhongang Cai, Hanming Deng, Quan Wang, Lei Yang, Lewei Lu, Fangzhou Hong, Zhaoxi Chen, Dahua Lin, Ziwei Liu. \\
+[[Project page]](https://weichenfan.github.io/NEO-VLA-Page/)
+[[Paper]](https://arxiv.org/abs/2611.06918)
+[[Code]](https://github.com/EvolvingLMMs-Lab/NEO/tree/main/VLAKit)
+[[Model]](https://huggingface.co/weepiess2383/NEO-VLA)
+[[Dataset]](https://huggingface.co/datasets/weepiess2383/NEO-VLA-Action-Pretrain)
+
+NEO-VLA is an encoder-free vision-language-action framework that jointly processes image patches and language in a native backbone. A flow-matching action expert reads representations across backbone depths for robust robotic manipulation.
+
+</div>
+</div>
+
 <div class='paper-box paper-box--animated' style='--preview-height: 12rem'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/gpt-6-astra-evaluation.webp' alt="GPT-6-Astra evaluation across eight real-world robot platforms and five embodiment classes" width="960" height="420" loading="lazy" decoding="async"></div></div>
 <div class='paper-box-text' markdown="1">
 
